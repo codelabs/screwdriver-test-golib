@@ -2,7 +2,7 @@
 shared:
     image: golang
     environment:
-        GOPATH: /sd/workspace
+        GOPATH: /sd/workspace/src/github.com/codelabs
 jobs:
     main:
         steps:
